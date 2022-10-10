@@ -8,7 +8,7 @@
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o plugin:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por **Movidesk** e clique em ativar (Instalar em seu bot Roteador/Router);
+ - Procure por **Movidesk** e clique em ativar (Instalar em seu bot Builder);
  - Após instalado o plugin, siga os passos abaixo;
  
  # Como configurar?
