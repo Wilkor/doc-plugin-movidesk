@@ -17,3 +17,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   - Após adicionado o token, clique em **Criar estrutura**! Feito isso, um fluxo será criado dentro do seu chatbot (Recomendamos que faça isso primeiramente em um bot de teste)
   - No primeiro momento você terá um fluxo de identificação de cliente.
   - Para Abertura de ticket, basta entrar em contato com nosso time de suporte, pois como tem muitas particularidades, fazemos um a um.
+  
+  
+Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+ 
+ Email: contato@pontoparse.net
