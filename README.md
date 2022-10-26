@@ -13,7 +13,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
  
  # Como configurar?
  
-  - Na tela de configuração basta adicionar o token que você consegue dentro da tela de ADM do seu movidesk.
+  - Na tela de configuração basta adicionar o token que você consegue em seu acesso de ADM do seu movidesk (URL de como pegar seu token **https://bit.ly/3N8f23W**).
   - Após adicionado o token, clique em **Criar estrutura**! Feito isso, um fluxo será criado dentro do seu chatbot (Recomendamos que faça isso primeiramente em um bot de teste)
   - No primeiro momento você terá um fluxo de identificação de cliente.
   - Para Abertura de ticket, basta entrar em contato com nosso time de suporte, pois como tem muitas particularidades, fazemos um a um.
