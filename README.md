@@ -1,7 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-movidesk/assets/34819624/3e98a36b-bd66-4433-a96f-6e0263326b3d)
 
 # Como utilizar a extensão Movidesk!
 
